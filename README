@@ -1,6 +1,16 @@
 Quick hack for OSX
+==================
 
-Compile:
+Credit goes to the original authors
+
+boxfs-0.7
+http://code.google.com/p/boxfs/
+
+libapp
+https://github.com/drotiro/libapp
+
+Compiling
+=========
 1. cd libapp/; make
 2. PKG_CONFIG_PATH=${PKG_CONFIG_PATH}:/usr/local/lib/pkgconfig/ make
 
